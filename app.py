@@ -3,7 +3,7 @@ import time
 from siem_defender import siem_system
 
 # Page Layout configuration
-st.set_page_config(page_title="SOC Enterprise SIEM Dashboard", layout="wide", page_icon="🛡️")
+st.set_page_config(page_title=" SIEM Dashboard", layout="wide", page_icon="🛡️")
 
 st.title("🛡️ SecureOps Autonomous SIEM Analytics Console")
 st.subheader("Real-Time Infrastructure Telemetry & Behavioral Threat Correlation")
